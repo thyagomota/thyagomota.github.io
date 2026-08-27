@@ -24,13 +24,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "tmota.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Thyago Mota"
+  pronouns         : "he/him"  
+  bio              : "Associate Professor"
+  location         : "Denver"
+  employer         : "MSU Denver"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "tmota@msudenver.edu" 
 
   # Academic websites
   academia         : # URL
