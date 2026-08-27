@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! Welcome to this site! My name is Thyago Mota and I am an Associate Professor in the [Department of Computer Sciences](https://www.msudenver.edu/computer-sciences/) at the Metropolitan State University of Denver.  Before joining MSU in the Fall 2019 I taught for 4 years at Moravian University, a Liberal Arts College in Pennsylvania.
+Hi! Welcome to this site! My name is Thyago Mota and I am an Associate Professor in the [Department of Computer Sciences](https://www.msudenver.edu/computer-sciences/) at the [Metropolitan State University of Denver](https://www.msudenver.edu/).  Before joining MSU in the Fall 2019 I taught for 4 years at [Moravian University](https://www.moravian.edu/), a Liberal Arts College in Pennsylvania.
 
 I was born in Fortaleza, a coastal city in Brazil. After earning my bachelor's degree in Computer Science, I spent 15 years working in IT for Brazil's Judicial Branch, where I oversaw both state and national elections. In 2011, my family and I relocated to Colorado, where I pursued a PhD in Computer Science at the Colorado School of Mines, completing it in 2015. This Fall 2026 marks my eigth academic year teaching at MSU Denver.
 
